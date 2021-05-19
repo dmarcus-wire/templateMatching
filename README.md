@@ -4,7 +4,7 @@
 > also due to max value, without logic won't find duplicate matches (multi-template matching)
 > scale, rotation, viewpoint changes can result in low correlation, missed detection and/or false positive detection
 
-[!image](hubble-images/hubble-evolving-universe-00.jpg)
+![image](hubble-images/hubble-evolving-universe-00.jpg)
 
 This demonstrates using a hueristic over actual machine learning model
 1. utilize image pyramids for multi-scale object detection
